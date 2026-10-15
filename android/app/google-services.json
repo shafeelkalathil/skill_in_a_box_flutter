@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432740691468",
+    "project_id": "skill-in-a-box",
+    "storage_bucket": "skill-in-a-box.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432740691468:android:b005ae277768ad92d44829",
+        "android_client_info": {
+          "package_name": "com.example.skill_in_a_box_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeFLeweoK76nEQUkzOW0KZr1ymIpQrzqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
